@@ -7,7 +7,7 @@ import Itemsgrid from './components/itemsgrid';
 import Pagination from './components/Pagination';
 import Footer from './components/footer';
 
-ReactDOM.render(<AppRouter />, document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
