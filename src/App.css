@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+.ri-shopping-cart-2-fill:before {
+  font-size: 30px;
+}
+
+.ri-heart-fill:before {
+  font-size: 30px;  
+}
+.ri-account-circle-line:before {
+  font-size: 30px; 
+}
+hr{
+  position: relative;
+  top: 10px;
+  border: none;
+  height: 3px;
+  background: black;
+}
+.banner{
+  width: 1200px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top:10px;
+}
+
+.liiconmenu{
+  margin: 10px;
+  list-style-type:none ;
+}
+
+.imgicons{
+  margin: 0 auto;
+}
